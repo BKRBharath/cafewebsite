@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <style>
+        body {
+            background-color: gray;
+            color: white;
+        }
+        h1 {
+            font-family: "Dancing Script", cursive;
+            font-size: 50px;
+        }
+
+        
+
+        .div1 {
+            margin-left: 850px;
+
+        }
+
+        a {
+            font-size: 20px;
+            font-family: "Dancing Script", cursive;
+            margin-left: 35px;
+            color: white;
+            margin-top: 50px;
+
+        }
+        .para {
+            font-family: "Dancing Script", cursive;
+        }
+
+        
+
+        img {
+            margin-top: 200px;
+            margin-left: 250px;
+            border: 5px solid white;
+            border-radius: 3px;
+            width: 350px;
+            height: 200px;
+
+        }
+        p{
+            margin-top: -210px;
+            margin-left: 650px;
+            font-size: 20px;
+            font-family: "Dancing Script", cursive;
+
+        }
+    </style>
+
+    <title>About</title>
+    
+</head>
+
+<body>
+    <section title="About">
+        <nav>
+            <h1 align="center">Cafe Grew...</h1>
+            <p align="center">Behind every successful person is a substantial amount of coffee..!!</p>
+            <div class="div1" >
+                <a href="cafe.html">Home</a>
+                <a href="about.html"> About</a>
+                <a href="">Menu</a>
+                <a href="">Specials</a>
+                <a href="">Gallery</a>
+                <a href="">Contact</a>
+    
+            </div>
+        </nav>
+        <div class="div2">
+            <img src="logo (1).jpg" alt="About">
+            <p>I am Tejashri. I love to bake and experiment in the kitchen. My kitchen is my safe haven and happy place.
+                I bake when I am stressed, when I am happy, when I am tensed and even when I am sad. So, I thought why
+                not make money out of it. That was the start of Cafe Brew.. I have always been a huge caffeine consumer;
+                drinking coffee after waking up, after going to work, in the meetings, in the evenings, before going to
+                bed and anywhere in between. At some point, I realized that I actually couldn't survive without my daily
+                dose of coffee and that is where Cafe Brew's tagline comes from.</p>
+
+
+
+        </div>
+    </section>
+
+</body>
+
+</html>

@@ -1,0 +1,26 @@
+body {
+    background-color: gray;
+    color: white;
+}
+
+h1 {
+    font-family: "Dancing Script", cursive;
+    font-size: 50px;
+}
+
+p {
+    font-family: "Dancing Script", cursive;
+}
+
+.div1 {
+    margin-left: 850px;
+
+}
+
+a {
+    font-size: 20px;
+    font-family: "Dancing Script", cursive;
+    margin-left: 35px;
+    color: white;
+
+}
